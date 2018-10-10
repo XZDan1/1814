@@ -28,3 +28,5 @@ git init;
 git remote 远程仓库设置; 设置成  add  名字叫做 origin（代表项目路径） 项目路径
 
 10. git push -u origin master; 本地仓库推送到远端仓库;
+
+谢志丹请我写代码
