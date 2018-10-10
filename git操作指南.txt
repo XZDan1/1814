@@ -32,3 +32,5 @@ git remote 远程仓库设置; 设置成  add  名字叫做 origin（代表项目路径） 项目路径
 git pull 远程仓库 到本地工作区
 
 谢志丹请我写代码
+
+hahahahah
